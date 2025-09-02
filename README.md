@@ -35,8 +35,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 
 ## Program:
-### Developed By:HEMAVATHY S
-### Register Number:212223230076
+### Developed By:DEEPIKA R
+### Register Number:212223230038
 ```python
 import cv2
 import numpy as np
@@ -113,7 +113,14 @@ plt.show()
 
 ```
 ## Output:
-<img width="953" height="632" alt="image" src="https://github.com/user-attachments/assets/e2a0c212-93a0-44c0-bd11-272fe8e24e90" />
+<img width="585" height="372" alt="image" src="https://github.com/user-attachments/assets/cd232fbc-aa50-4393-90e8-a9c871339ab2" />
+<img width="596" height="376" alt="image" src="https://github.com/user-attachments/assets/c1fc900b-1ca1-49fa-9f05-3ad0f3164c41" />
+<img width="590" height="178" alt="image" src="https://github.com/user-attachments/assets/dd89afdf-75e3-430e-8067-a10827e76a52" />
+<img width="615" height="374" alt="image" src="https://github.com/user-attachments/assets/a16e6bec-97e3-4cf9-98ab-df58b1ed7180" />
+<img width="600" height="381" alt="image" src="https://github.com/user-attachments/assets/eeb897d4-535f-4e5a-b515-6a616cccc013" />
+<img width="583" height="377" alt="image" src="https://github.com/user-attachments/assets/efd92bbf-da59-4929-9a93-090872a5ffe6" />
+<img width="599" height="230" alt="image" src="https://github.com/user-attachments/assets/07b23cb4-7769-45fa-b218-5a13bec9b414" />
+
 
 ## Result: 
 
